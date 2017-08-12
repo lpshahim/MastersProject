@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{2A0740F8-7E06-4652-B70D-B6152969F301}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MapMatrixForPixels/Program.cs">
+    <Files>
+      <File FileName="MapMatrixForPixels/Program.cs" Line="28" Column="7" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MapMatrixForPixels PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

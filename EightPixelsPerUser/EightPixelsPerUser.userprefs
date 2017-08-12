@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{A3744EB2-4A19-4BDD-8F95-211ED356A7A4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EightPixelsPerUser/Program.cs">
+    <Files>
+      <File FileName="EightPixelsPerUser/Program.cs" Line="19" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.EightPixelsPerUser PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

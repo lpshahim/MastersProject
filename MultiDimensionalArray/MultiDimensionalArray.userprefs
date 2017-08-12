@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{A4014E89-1204-4FEF-9D57-1147AF5FCB3E}|Default">
+  <MonoDevelop.Ide.ItemProperties.MultiDimensionalArray PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MultiDimensionalArray/Program.cs">
+    <Files>
+      <File FileName="MultiDimensionalArray/Program.cs" Line="13" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../SHAHash/SHAHash/Program.cs" line="211" offsetX="841" offsetY="3150" expression="byteArray[15]" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MultiItemStartupConfigurations />
+</Properties>

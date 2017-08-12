@@ -1,0 +1,5 @@
+/Users/Louis-Philip/Projects/Authenticate_Pins/Authenticate_Pins/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Louis-Philip/Projects/Authenticate_Pins/Authenticate_Pins/bin/Debug/Authenticate_Pins.pdb
+/Users/Louis-Philip/Projects/Authenticate_Pins/Authenticate_Pins/bin/Debug/Authenticate_Pins.exe
+/Users/Louis-Philip/Projects/Authenticate_Pins/Authenticate_Pins/obj/x86/Debug/Authenticate_Pins.exe
+/Users/Louis-Philip/Projects/Authenticate_Pins/Authenticate_Pins/obj/x86/Debug/Authenticate_Pins.pdb

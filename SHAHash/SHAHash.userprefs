@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{34385681-ED62-45F7-8506-6605F6D372DB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SHAHash/Program.cs">
+    <Files>
+      <File FileName="SHAHash/Program.cs" Line="14" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SHAHash PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="SHAHash/Program.cs" line="211" offsetX="841" offsetY="3150" expression="byteArray[15]" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MultiItemStartupConfigurations />
+</Properties>
