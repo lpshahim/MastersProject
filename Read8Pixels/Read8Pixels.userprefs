@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{EB482D55-21F3-48F5-867B-5E1898ADB86A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Read8Pixels/Program.cs">
+    <Files>
+      <File FileName="Read8Pixels/Program.cs" Line="36" Column="35" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Read8Pixels PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
