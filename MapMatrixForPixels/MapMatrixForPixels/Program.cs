@@ -62,6 +62,12 @@ namespace MapMatrixForPixels
 				Console.WriteLine(i);
 			}
 
+			Console.WriteLine("\nCheck old dictionary\n");
+
+			foreach (var i in d) {
+				Console.WriteLine(i);
+			}
+
 			//*************************************
 
 
