@@ -31,6 +31,26 @@ namespace MapMatrixForPixels
 			}
 			sw.Flush();
 			sw.Close();
+
+			//MAP NEW MATRIX WITH 8 PIXELS PER USER
+			StreamWriter newSW = new StreamWriter("newMatrixMap.txt");
+			foreach(var i in d.Values){
+				newSW.WriteLine(i);
+			}
+			newSW.Flush();
+			newSW.Close();
+
+			string[] allLines = File.ReadAllLines("newMatrixMap.txt");
+			string[] ids = File.ReadAllLines("8MapMatrix.txt");
+			string[] newLines = new string[allLines.Length];
+
+
+			for (int i = 0; i < allLines.Length; i++) {
+				newLines[i] = allLines[i] + "; " + ids[i];
+			}
+			File.WriteAllLines("newMatrixMap.txt", newLines);
+			//*************************************
+
 			Console.WriteLine("\nEnter pixel id:");
 			string pixelId = Console.ReadLine();
 
