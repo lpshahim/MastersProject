@@ -22,6 +22,7 @@ namespace MapMatrixForPixels
 					count++;
 				}
 			}
+
 			StreamWriter sw = new StreamWriter("MatrixMap.txt");
 			int index = 0;
 			foreach (var i in d.Values) {
@@ -34,7 +35,6 @@ namespace MapMatrixForPixels
 
 			//MAP NEW MATRIX WITH 8 PIXELS PER USER
 			StreamWriter newSW = new StreamWriter("newMatrixMap.txt");
-			int id = 0;
 			foreach(var i in d.Values){
 				newSW.WriteLine(i);
 			}
@@ -42,27 +42,28 @@ namespace MapMatrixForPixels
 			newSW.Close();
 
 			string[] allLines = File.ReadAllLines("newMatrixMap.txt");
-			string[] ids = new string[allLines.Length];
+			string[] ids = File.ReadAllLines("8MapMatrix.txt");
 			string[] newLines = new string[allLines.Length];
 
-			for (int i = 0; i < allLines.Length;i++){
-					int eight = 0;
-					while (eight != 7)
-					{
-						ids[i] += id;
-						eight++;
-					}
-				id++;
-			}
-			foreach (var i in ids) {
-				Console.WriteLine(i);
-			}
 
 			for (int i = 0; i < allLines.Length; i++) {
 				newLines[i] = allLines[i] + "; " + ids[i];
 			}
 			File.WriteAllLines("newMatrixMap.txt", newLines);
 			//*************************************
+
+			//new dictionary for search
+			Dictionary<string, string> newD = new Dictionary<string, string>();
+			for (int i = 0; i < 72000; i++) {
+				newD.Add(allLines[i],ids[i]);
+			}
+
+			foreach (var i in newD) {
+				Console.WriteLine(i);
+			}
+
+			//*************************************
+
 
 			Console.WriteLine("\nEnter pixel id:");
 			string pixelId = Console.ReadLine();
