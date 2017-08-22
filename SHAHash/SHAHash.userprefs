@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{34385681-ED62-45F7-8506-6605F6D372DB}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="SHAHash/Program.cs">
     <Files>
-      <File FileName="SHAHash/Program.cs" Line="14" Column="1" />
+      <File FileName="SHAHash/Program.cs" Line="77" Column="3" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.SHAHash PreferredExecutionTarget="MonoDevelop.Default" />

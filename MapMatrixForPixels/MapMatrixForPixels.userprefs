@@ -1,8 +1,7 @@
 ﻿<Properties StartupConfiguration="{2A0740F8-7E06-4652-B70D-B6152969F301}|Default" GitUserInfo="UsingGIT">
-  <MonoDevelop.Ide.Workbench ActiveDocument="MapMatrixForPixels Status">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MapMatrixForPixels/Program.cs">
     <Files>
       <File FileName="MapMatrixForPixels/Program.cs" Line="1" Column="1" />
-      <File FileName="MapMatrixForPixels Status" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
