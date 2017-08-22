@@ -1,3 +1,14 @@
 ﻿<Properties StartupConfiguration="{D2C61F0C-B708-47D2-9A9C-754BD1922363}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CreateHashPinImage/Program.cs">
+    <Files>
+      <File FileName="CreateHashPinImage/Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CreateHashPinImage PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
 </Properties>
