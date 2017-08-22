@@ -3,3 +3,8 @@
 /Users/Louis-Philip/Projects/MapMatrixForPixels/MapMatrixForPixels/bin/Debug/MapMatrixForPixels.exe
 /Users/Louis-Philip/Projects/MapMatrixForPixels/MapMatrixForPixels/obj/x86/Debug/MapMatrixForPixels.exe
 /Users/Louis-Philip/Projects/MapMatrixForPixels/MapMatrixForPixels/obj/x86/Debug/MapMatrixForPixels.pdb
+/Users/Louis-Philip/GitHub/MastersProject/MapMatrixForPixels/MapMatrixForPixels/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Louis-Philip/GitHub/MastersProject/MapMatrixForPixels/MapMatrixForPixels/bin/Debug/MapMatrixForPixels.pdb
+/Users/Louis-Philip/GitHub/MastersProject/MapMatrixForPixels/MapMatrixForPixels/bin/Debug/MapMatrixForPixels.exe
+/Users/Louis-Philip/GitHub/MastersProject/MapMatrixForPixels/MapMatrixForPixels/obj/x86/Debug/MapMatrixForPixels.exe
+/Users/Louis-Philip/GitHub/MastersProject/MapMatrixForPixels/MapMatrixForPixels/obj/x86/Debug/MapMatrixForPixels.pdb

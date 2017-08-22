@@ -22,6 +22,7 @@ namespace MapMatrixForPixels
 					count++;
 				}
 			}
+
 			StreamWriter sw = new StreamWriter("MatrixMap.txt");
 			int index = 0;
 			foreach (var i in d.Values) {
@@ -49,6 +50,25 @@ namespace MapMatrixForPixels
 				newLines[i] = allLines[i] + "; " + ids[i];
 			}
 			File.WriteAllLines("newMatrixMap.txt", newLines);
+			//*************************************
+
+
+			//new dictionary for search
+			Dictionary<string, string> newD = new Dictionary<string, string>();
+			for (int i = 0; i < 72000; i++) {
+				newD.Add(allLines[i],ids[i]);
+			}
+
+			foreach (var i in newD) {
+				Console.WriteLine(i);
+			}
+
+			Console.WriteLine("\nCheck old dictionary\n");
+
+			foreach (var i in d) {
+				Console.WriteLine(i);
+			}
+
 			//*************************************
 
 			Console.WriteLine("\nEnter pixel id:");
