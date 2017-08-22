@@ -52,6 +52,7 @@ namespace MapMatrixForPixels
 			File.WriteAllLines("newMatrixMap.txt", newLines);
 			//*************************************
 
+
 			//new dictionary for search
 			Dictionary<string, string> newD = new Dictionary<string, string>();
 			for (int i = 0; i < 72000; i++) {
@@ -69,7 +70,6 @@ namespace MapMatrixForPixels
 			}
 
 			//*************************************
-
 
 			Console.WriteLine("\nEnter pixel id:");
 			string pixelId = Console.ReadLine();
