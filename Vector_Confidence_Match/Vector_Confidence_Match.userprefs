@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{245A8E07-06D1-4DE7-92F7-3052F1372040}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Vector_Confidence_Match/Program.cs">
+    <Files>
+      <File FileName="Vector_Confidence_Match/Program.cs" Line="69" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Vector__Confidence__Match PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
