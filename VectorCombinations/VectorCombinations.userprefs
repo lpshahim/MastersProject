@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{2CEBFA60-501A-4745-A625-5BC3CD18051A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="VectorCombinations/Program.cs">
+    <Files>
+      <File FileName="VectorCombinations/Program.cs" Line="53" Column="37" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.VectorCombinations PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

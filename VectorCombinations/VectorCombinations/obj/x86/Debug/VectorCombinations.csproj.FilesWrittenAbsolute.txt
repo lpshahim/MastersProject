@@ -1,0 +1,5 @@
+/Users/Louis-Philip/GitHub/MastersProject/VectorCombinations/VectorCombinations/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Louis-Philip/GitHub/MastersProject/VectorCombinations/VectorCombinations/bin/Debug/VectorCombinations.pdb
+/Users/Louis-Philip/GitHub/MastersProject/VectorCombinations/VectorCombinations/bin/Debug/VectorCombinations.exe
+/Users/Louis-Philip/GitHub/MastersProject/VectorCombinations/VectorCombinations/obj/x86/Debug/VectorCombinations.exe
+/Users/Louis-Philip/GitHub/MastersProject/VectorCombinations/VectorCombinations/obj/x86/Debug/VectorCombinations.pdb
